@@ -15,7 +15,7 @@
 
 ### History
 - 2024년 AI SW 동서대학교 창업동아리 (2024.04 - 2024.11) [Ver 1.0 : 진행 과정](https://github.com/amazon7737/class_review_site)
-- 제9회 부산 ICT 융합 해커톤 대회 본선 (2024.07.04 - 2024.07.05) [Ver 2.0 : 진행 과정]([https://slr-phi.vercel.app/](https://github.com/solp721/SLR_Hackathon/tree/main/2024_busan_ict_hackathon))
+- 제9회 부산 ICT 융합 해커톤 대회 본선 (2024.07.04 - 2024.07.05) [Ver 2.0 : 진행 과정](https://github.com/solp721/SLR_Hackathon/tree/main/2024_busan_ict_hackathon)
 - 제11회 대한민국 SW 융합 해커톤 대회 본선 (2024.08.23 - 2024.08.25) [Ver 3.0 : 진행 과정 ](https://github.com/solp721/SLR_Hackathon/tree/main/2024_korea_sw_hackathon)
 - 2024 K-ICT WEEK in BUSAN 전시회 출품 (2024.09.10 - 2024.09.12)
 - 2024 부산 잡페어 출품예정
